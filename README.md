@@ -1,6 +1,8 @@
 Olá, sou o <strong>Eduardo Salvadori</strong> 
 
-<div>Programador Web e atualmente estou aprendendo e criando projetos com:<br>
+<div>Programador Web e atualmente estou aprendendo e criando projetos com:
+ <br>
+ <br>
  <ul>
  <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"></li><br>
  <li><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"></li><br>
