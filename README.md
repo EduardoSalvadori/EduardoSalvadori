@@ -19,6 +19,7 @@ Olá, sou o <strong>Eduardo Salvadori</strong>
  <a href="https://github.com/EduardoSalvadori">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSalvadori&layout=compact&langs_count=78theme=dracula"/>
   <br>
+<br>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSalvadori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
