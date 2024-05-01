@@ -16,8 +16,13 @@ Olá, sou o <strong>Eduardo Salvadori</strong>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSalvadori&layout=compact&langs_count=78theme=dracula"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSalvadori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+<br>
 Entre em contato comigo:<br>
+<div>
+<a href="https://instagram.com/eduardosalvadori/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@eduardo.salvadori@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eduardo-henrique-salvadori-santos-088048176/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 <!--
